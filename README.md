@@ -56,6 +56,8 @@
 
 [![An image of @alokdangre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alokdangre)](https://holopin.io/@alokdangre)
 
+<img width="640" height="440" alt="image" src="https://github.com/user-attachments/assets/edf9dce4-e3bc-4c75-a70a-6069b39d03b8" />
+
 ---
 
 ### 🌐 Connect With Me  
