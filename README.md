@@ -4,7 +4,7 @@
   
   ### Full-Stack Developer | Cloud Native Enthusiast | Open Source Contributor
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F8AFF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Backend+Systems;Cloud+Native+%26+Distributed+Applications;Passionate+About+Open+Source)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F8AFF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Backend+Systems;Cloud+Native+%26+Distributed+Applications;Passionate+About+Open+Source)](https://git.io/typing-svg)
   
   <p align="center">
     <a href="https://www.linkedin.com/in/alok-dangre-6994a4297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -128,6 +128,8 @@ const alok = {
 ---
 
 ## 🚀 Featured Projects
+
+<!-- TODO: Replace the '#' links below with your actual project repository URLs -->
 
 <table>
 <tr>
