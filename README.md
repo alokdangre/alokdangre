@@ -53,7 +53,10 @@
 ---
 
 ### CNCF DEV STATS
-https://devstats.me/?username=alokdangre
+
+<p align="center">
+  <a href="https://devstats.me/?username=alokdangre"><img src="https://devstats.me/api/badge/alokdangre" alt="CNCF DevStats" /></a>
+</p>
 
 ### 🏅 Achievements  
 
