@@ -133,7 +133,7 @@ const alok = {
 <tr>
 <td width="50%">
 
-### 🔥 [Project Name 1](https://github.com/alokdangre)
+### 🔥 [Project Name 1](#)
 **Tech Stack:** Go, PostgreSQL, Docker, Kubernetes
 
 A scalable microservices architecture project demonstrating distributed systems design patterns with high availability and fault tolerance.
@@ -145,7 +145,7 @@ A scalable microservices architecture project demonstrating distributed systems 
 </td>
 <td width="50%">
 
-### 💡 [Project Name 2](https://github.com/alokdangre)
+### 💡 [Project Name 2](#)
 **Tech Stack:** Next.js, TypeScript, Tailwind, Redis
 
 Modern web application with server-side rendering, optimized performance, and seamless user experience.
@@ -159,7 +159,7 @@ Modern web application with server-side rendering, optimized performance, and se
 <tr>
 <td width="50%">
 
-### 🌐 [Project Name 3](https://github.com/alokdangre)
+### 🌐 [Project Name 3](#)
 **Tech Stack:** Rust, Kafka, Redis, React
 
 High-performance real-time data streaming platform with event-driven architecture and low-latency processing.
@@ -235,8 +235,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 <a href="https://codeforces.com/profile/Studycode001">
   <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://github.com/alokdangre">
+  <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 ### 🌟 What I Can Help With
