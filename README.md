@@ -52,6 +52,9 @@
 
 ---
 
+### CNCF DEV STATS
+https://devstats.me/?username=alokdangre
+
 ### 🏅 Achievements  
 
 [![An image of @alokdangre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alokdangre)](https://holopin.io/@alokdangre)
