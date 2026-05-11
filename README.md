@@ -1,4 +1,4 @@
-# Hey, I’m Madme 👋
+# Hey, I’m Alok 👋
 
 I’m a full-stack, DevOps, and AI engineer building production-grade applications, resilient infrast:contentReference[oaicite:0]{index=0}shipping AI apps that solve real problems, staying close to the fast-moving AI landscape, and turning ideas into systems that are reliable, scalable, and useful in the real world.
 
