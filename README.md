@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Alok%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20·%20DevOps%20·%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+# Hey, I'm Alok 👋
+### Full-Stack · DevOps · AI Engineer
 
 </div>
 
@@ -70,6 +71,10 @@ I'm an engineer who thrives across the stack — from product-facing frontend to
 
 </div>
 
+**🏅 Open Source Badges**
+
+[![Holopin badges](https://holopin.me/alokdangre)](https://holopin.io/@alokdangre)
+
 ---
 
 ## 🌟 Open Source Highlights
@@ -106,11 +111,5 @@ I take on **select freelance projects** where I can make a real impact. If you n
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/al0kdangre)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-dangre-6994a4297/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alokdangre5400)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
